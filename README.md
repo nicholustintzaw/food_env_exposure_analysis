@@ -1,2 +1,16 @@
-# food_env_exposure_analysis
-R Script Workflow for Food Environment Exposure Analysis (Static Approach): A Practical Guide
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# R Script Workflow for Static Food Environment Exposure Analysis: A Reproducible Example
+
+This repository provides a practical example of an R script workflow
+used for static food environment exposure analysis. It is intended as a
+resource for colleagues working on similar projects and is not meant to
+be a definitive technical guideline. The scripts and documentation are
+designed to be easily adaptable and reusable, promoting transparency and
+reproducibility in your research.
+
+This workflow demonstrates the step-by-step process of preparing spatial
+data, calculating relevant metrics, and generating visualizations for
+assessing food environments. While tailored to my specific experience,
+it can serve as a valuable starting point for your own analyses.
